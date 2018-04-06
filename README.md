@@ -1,5 +1,5 @@
 # PokerHands
-A solution in C# for the Poker Hands programming challenge.
+A console solution in C# for the Poker Hands programming challenge.
 
 ## Challenge overview
 
